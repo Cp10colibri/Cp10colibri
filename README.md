@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cp10colibri
-- 👀 I’m interested in  programação 
-- 🌱 I’m currently learning  as linguagens basicas
+- 👀 I’m interested in  programming
+- 🌱 I’m currently learning  the basic languages
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...55(21)99697929 3 ou gabrielcabralasus@gmail.com
+- 📫 How to reach me ...55(21)99697929 3 or gabrielcabralasus@gmail.com
 
 <!---
 Cp10colibri/Cp10colibri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
